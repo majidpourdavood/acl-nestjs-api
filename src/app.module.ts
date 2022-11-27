@@ -31,7 +31,7 @@ import { UploadFileModule } from './upload-file/upload-file.module';
             expandVariables: true,
 
         }),
-        MongooseModule.forRoot('mongodb://localhost/advmarket', {
+        MongooseModule.forRoot('mongodb://localhost/ACLNestjs', {
             useNewUrlParser: true,
             useUnifiedTopology: true
         }),
