@@ -7,7 +7,11 @@ ACL For Nestjs
 npm install
 npm start
 
-Go to localhost:3000
+OR
+
+npm run start:dev
+
+Then Go To localhost:3000
 ```
 
 ---
